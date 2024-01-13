@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="window_background_color">#41C4BF</color> // setting the primary colour of the window to the app's theme colour
+    <color name="splash_screen_background">#41C4BF</color>
+</resources>
