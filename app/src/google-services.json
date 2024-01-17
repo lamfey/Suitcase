@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "929106486091",
+    "firebase_url": "https://suitcase-80918-default-rtdb.firebaseio.com",
+    "project_id": "suitcase-80918",
+    "storage_bucket": "suitcase-80918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929106486091:android:0175d3bb01ba8e5e8a3ece",
+        "android_client_info": {
+          "package_name": "com.feyfey.suitcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNNRQ3k9FUdslIZgCdUvi3P0j8_CZYRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
