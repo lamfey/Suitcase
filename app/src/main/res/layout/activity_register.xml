@@ -7,7 +7,7 @@
     tools:context=".RegisterActivity"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@drawable/bg">
+    android:background="@drawable/bg3">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -58,6 +58,8 @@
                 android:drawableLeft="@drawable/ic_baseline_email_24"
                 android:drawablePadding="8dp"
                 android:textColor="@color/black"/>
+
+
 
             <EditText
                 android:id="@+id/register_username"

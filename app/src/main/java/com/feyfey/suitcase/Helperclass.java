@@ -2,7 +2,10 @@ package com.feyfey.suitcase;
 
 public class Helperclass {
 
-    String name, email, username, password;
+    String name;
+    String email;
+    String username;
+    String password;
 
     public String getName() {
         return name;
